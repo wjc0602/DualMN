@@ -33,7 +33,7 @@ More results are coming soon.
   <tr>
     <th>Model</th>
     <th>OTB<br>Success(%)</th>
-    <th>OTB<br>SR0.5 (%)</th>
+    <th>OTB<br>Precision (%)</th>
   </tr>
   <tr>
     <td>Short-term memory</td>
