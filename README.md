@@ -26,7 +26,7 @@ This is a modified version of the python framework [PyTracking](https://github.c
 * Jingchao Wang, Collage of Software Engineering, Zhengzhou University of Light Industry, China, 1402994066@qq.com
 
 ## Results
-We obtain the state-of-the-art results on several benchmarks while running at high speed. 
+We obtain the state-of-the-art results on several benchmarks. 
 More results are coming soon. 
 
 <table>
