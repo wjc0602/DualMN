@@ -2,10 +2,6 @@
 
 ### We hope this work will attract more researchers/engineers to build more complete, robust and powerful memory networks for visual object tracking. Code and papers will be released publicly. 
 
-
-## Abstract
-Spatial-temporal memory networks have become the focus of visual object tracking in recent years. Advanced memory networks have achieved outstanding results, but the balance between long-term and short-term memory remains a difficult problem in memory building. Excessive reliance on long-term memory will lead to a poor tracker's ability to discriminate between targets and distractors. Conversely, the tracker cannot adapt to the rapid changes of the target and thus drift. Therefore, we propose the dual-branch memory network(DualMN), which divided the memory network into short-term memory branch and long-term memory branch, cleverly avoids the conflict between them. Specifically, the DualMN consists of a short-term memory branch and a long-term memory branch. The former is dedicated to learning the difference between the new target appearance and the surrounding environment, to better locate the correct target from the complex scene. The latter focuses on learning the essential feature of the target to prevent the drift problem caused by a sudden change in target appearance. During the tracking process, the tracking results of the two branches complement each other. Comprehensive experiments show that DualMN performs favorably against state-of-the-art trackers.
-
 ## Architecture
 
 ![DualMN](imgs/DualMN.jpg)
